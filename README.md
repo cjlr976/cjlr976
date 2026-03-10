@@ -34,7 +34,7 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/chloe-robinson-aaa85a331)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:chloejlrobinson@gmail.com)
 
 <img alt="Rainbow Toast Mono" src="https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" align="center"/>
